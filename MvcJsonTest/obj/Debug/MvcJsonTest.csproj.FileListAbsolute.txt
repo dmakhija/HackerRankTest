@@ -1,0 +1,10 @@
+C:\Users\ampm\Desktop\2019\study\Projects\MvcJsonTest\MvcJsonTest\bin\Debug\FirmexTest.exe.config
+C:\Users\ampm\Desktop\2019\study\Projects\MvcJsonTest\MvcJsonTest\bin\Debug\FirmexTest.exe
+C:\Users\ampm\Desktop\2019\study\Projects\MvcJsonTest\MvcJsonTest\bin\Debug\FirmexTest.pdb
+C:\Users\ampm\Desktop\2019\study\Projects\MvcJsonTest\MvcJsonTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ampm\Desktop\2019\study\Projects\MvcJsonTest\MvcJsonTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ampm\Desktop\2019\study\Projects\MvcJsonTest\MvcJsonTest\obj\Debug\MvcJsonTest.csprojAssemblyReference.cache
+C:\Users\ampm\Desktop\2019\study\Projects\MvcJsonTest\MvcJsonTest\obj\Debug\MvcJsonTest.csproj.CoreCompileInputs.cache
+C:\Users\ampm\Desktop\2019\study\Projects\MvcJsonTest\MvcJsonTest\obj\Debug\MvcJsonTest.csproj.CopyComplete
+C:\Users\ampm\Desktop\2019\study\Projects\MvcJsonTest\MvcJsonTest\obj\Debug\FirmexTest.exe
+C:\Users\ampm\Desktop\2019\study\Projects\MvcJsonTest\MvcJsonTest\obj\Debug\FirmexTest.pdb

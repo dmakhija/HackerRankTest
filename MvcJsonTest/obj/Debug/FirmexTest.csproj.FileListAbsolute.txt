@@ -1,0 +1,10 @@
+C:\Users\ampm\source\repos\FirmexTest\FirmexTest\bin\Debug\FirmexTest.exe.config
+C:\Users\ampm\source\repos\FirmexTest\FirmexTest\bin\Debug\FirmexTest.exe
+C:\Users\ampm\source\repos\FirmexTest\FirmexTest\bin\Debug\FirmexTest.pdb
+C:\Users\ampm\source\repos\FirmexTest\FirmexTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ampm\source\repos\FirmexTest\FirmexTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ampm\source\repos\FirmexTest\FirmexTest\obj\Debug\FirmexTest.csprojAssemblyReference.cache
+C:\Users\ampm\source\repos\FirmexTest\FirmexTest\obj\Debug\FirmexTest.csproj.CoreCompileInputs.cache
+C:\Users\ampm\source\repos\FirmexTest\FirmexTest\obj\Debug\FirmexTest.csproj.CopyComplete
+C:\Users\ampm\source\repos\FirmexTest\FirmexTest\obj\Debug\FirmexTest.exe
+C:\Users\ampm\source\repos\FirmexTest\FirmexTest\obj\Debug\FirmexTest.pdb
